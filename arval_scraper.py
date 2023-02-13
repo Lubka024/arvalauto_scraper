@@ -2,7 +2,7 @@ import requests
 import csv
 from bs4 import BeautifulSoup
 
-# Define the base URL
+# Define the base URL (testing git)
 base_url = 'https://www.arvalauto.cz/nabidka-vozu/operativni-leasing/cena-bez-dph/'
 
 # Open the CSV file for writing
